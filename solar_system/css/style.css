@@ -195,6 +195,7 @@ body {
   height: 1vh;
   filter: drop-shadow(0px -3px 12px #02bc70);
   border-radius: 50%;
+
 }
 #ufo-route #ufo.fire {
   animation: ufo 10s linear 0s infinite;
