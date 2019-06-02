@@ -3,11 +3,16 @@ body{
 }
 
 td{
-    border-bottom: 1px solid blue;
+    border-bottom: 1px solid white;
 }
 
 table{
     width:60%;
     margin: auto;
     font-size: 1.5em;
+}
+
+main{
+    background-image:url(./image/background1.gif);
+background-size:cover;
 }
